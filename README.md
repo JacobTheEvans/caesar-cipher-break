@@ -1,6 +1,6 @@
 ## Caesar Cipher
 
-<p>This project shows an example of a Caesar Cipher and to break to it using brute force and letter frequency</p>
+<p>This project shows an example of a Caesar Cipher and how to break to it using brute force and letter frequency</p>
 <p>File Structure Listed Below</p>
 <pre>
 caesar-cipher-master/  
